@@ -12,7 +12,7 @@ public class Ex1 {
     public static void main(String[] args) {
        int base = 10;
        int altura = 15;
-        System.out.println("A area do retangulo é" + base*altura);
+        System.out.println("A area do retangulo é " + base*altura);
         
         // TODO code application logic here
     }
