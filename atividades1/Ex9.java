@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 
@@ -19,9 +18,11 @@ public class Ex9 {
         System.out.println("valor total das vendas: ");
         float qnt = scanner.nextInt();
 
-        float tt = slr+vend*cms+0.5*qnt;
+        float tt = slr + vend * cms + qnt;
 
-        System.out.println("salario final: "+tt);
+        System.out.println("salario final: "+ tt * 0.05);
+
+        scanner.close();
     }
 }
 

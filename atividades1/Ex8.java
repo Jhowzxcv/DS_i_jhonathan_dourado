@@ -18,5 +18,7 @@ public class Ex8 {
 
         System.out.println("custo final: "+ tt);
 
+        scanner.close();
+
     }
 }
