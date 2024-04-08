@@ -1,4 +1,4 @@
-
+package atividades1; 
 
 /**
  *
@@ -14,7 +14,7 @@ public class Ex1 {
        int altura = 15;
         System.out.println("A area do retangulo é " + base*altura);
         
-        // TODO code application logic here
+        // TODO mede application logic here
     }
     
 }
