@@ -1,4 +1,4 @@
-package atividades1; 
+package atividade1; 
 
 /**
  *
